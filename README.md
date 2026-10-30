@@ -8,7 +8,7 @@ MỤC 1: THÔNG TIN SINH VIÊN
 * **Tên Đề tài / Bài tập**: Bài 5.3/5.4
 
 MỤC 2: HƯỚNG DẪN CÀI ĐẶT & CHẠY DỰ ÁN
-• Các bước cài đặt:
+• **Các bước cài đặt:**
 1. Mở SQL Server Management Studio (SSMS), chạy file
 Database/ScriptDB.sql để khởi tạo CSDL và dữ liệu mẫu.
 2. Mở file .sln bằng Visual Studio 2022.
